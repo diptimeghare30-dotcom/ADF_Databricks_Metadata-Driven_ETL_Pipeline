@@ -16,7 +16,7 @@ The solution is designed to be scalable, reusable, and dynamic using metadata ta
 ---
 
 ## Architecture Diagram
-![Architecture Diagram](Architecture_diagram.png)
+![Architecture Diagram](architecture_diagram.png)
 
 ---
 
