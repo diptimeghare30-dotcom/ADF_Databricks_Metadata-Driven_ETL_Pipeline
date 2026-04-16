@@ -15,6 +15,11 @@ The solution is designed to be scalable, reusable, and dynamic using metadata ta
 
 ---
 
+## Architecture Diagram
+![Architecture Diagram](Architecture_diagram.png)
+
+---
+
 ## 🚀 Key Features
 - Metadata-driven ingestion pipeline  
 - Dynamic handling of multiple tables  
